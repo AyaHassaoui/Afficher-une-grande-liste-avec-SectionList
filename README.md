@@ -14,13 +14,15 @@ Développer une application mobile React Native utilisant le composant `SectionL
 
 ### 🟢 Vue initiale – Interface standard
 
-<img width="1919" height="939" alt="Lab6 1" src="https://github.com/user-attachments/assets/74dc3a12-082a-40ee-bdf3-c9f892d067dc" />
+<img width="1481" height="626" alt="image" src="https://github.com/user-attachments/assets/a6259e33-4499-4b2a-8210-e53f16898421" />
+
 
 ---
 
 ### 🟡 Mode promotionnel activé
 
-<img width="959" height="449" alt="Lab6 Promo" src="https://github.com/user-attachments/assets/5707527e-f331-4c9e-8b74-ffa7b36b0f3a" />
+<img width="1492" height="628" alt="image" src="https://github.com/user-attachments/assets/5d135555-f4ad-41ab-90ed-0a1db5c25719" />
+
 
 #### 🔎 Règles de filtrage
 
@@ -34,11 +36,9 @@ Développer une application mobile React Native utilisant le composant `SectionL
 
 ### 💱 Gestion des devises
 
-<img width="959" height="474" alt="Lab6 Euro" src="https://github.com/user-attachments/assets/57de3ec5-20ba-43c7-82c2-1f46dce2ab30" />
+<img width="1505" height="626" alt="image" src="https://github.com/user-attachments/assets/874f1a87-edca-4210-898a-97e1b0ee73a2" />
 
-<img width="959" height="478" alt="Lab6 Mad" src="https://github.com/user-attachments/assets/8f5af440-5e2e-4a34-8cc4-8d60b57eb2d0" />
-
-<img width="959" height="473" alt="Lab6 2" src="https://github.com/user-attachments/assets/fa7a6c9e-ee3d-42f2-a06b-fdd8bb4e472b" />
+<img width="1479" height="631" alt="image" src="https://github.com/user-attachments/assets/5fc2d644-e832-4c1e-a0d5-2b1cda9a54b0" />
 
 #### 🔁 Règles de conversion
 
@@ -55,3 +55,4 @@ Développer une application mobile React Native utilisant le composant `SectionL
 * **Encadrant :** Pr. Mohammed Lechgar
 
 ---
+
